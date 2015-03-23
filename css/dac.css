@@ -1,0 +1,52 @@
+body {
+	font-size: 18px;
+}
+
+a {
+	color: #e54e40;
+}
+
+header {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-bottom: 50px;
+	border-bottom: 2px dotted #e54e40;
+}
+
+header h1 {
+	font-family: 'Playfair Display', serif;
+	text-transform: uppercase;
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.dfdflyer {
+	float: right;
+	width: 15%;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+
+#map {
+	margin-top: 20px;
+	height: 600px;
+}
+
+footer {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+	border-top: 2px dotted #e54e40;
+}
+
+.modal-body p {
+	font-size: 14px;
+}
+
+.modal-header {
+	border-bottom: 2px dotted #e54e40;
+}
+
+.modal-footer {
+	border-top: 2px dotted #e54e40;
+}

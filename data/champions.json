@@ -1,0 +1,5535 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Fullone",
+				"account": "fullo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.8774090",
+					"44.2898521"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Lippi",
+				"account": "nicolalippi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.9101191",
+					"43.9963531"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Carmen Russo",
+				"account": "fablab_catania"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.1595221",
+					"37.7334175"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Edoardo Varani",
+				"account": "Heddone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.8313227",
+					"44.7997437"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Fortini",
+				"account": "metiuuitem"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.2908154",
+					"44.7315331"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Monti",
+				"account": "montigl"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1927490",
+					"44.5461884"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandra Privitera",
+				"account": "bravaprivi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.1253891",
+					"37.1810341"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Rosario Monaco",
+				"account": "rosario78"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9101562",
+					"36.7881355"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Carmelo Fabio Mondino",
+				"account": "fabiomondino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.2667646",
+					"37.5031700"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Roberto Chibbaro",
+				"account": "RChibbaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7255125",
+					"36.9269257"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabrizio Lipani",
+				"account": "fabriziolipani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.9880972",
+					"37.4831543"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Angelo Sanfilippo",
+				"account": "AngSanfilippo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.9373302",
+					"37.1017113"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Claudia Malva",
+				"account": "claudia_malva"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.8809261",
+					"38.0264893"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabrizio Mondo",
+				"account": "FabrizioMondo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.5123653",
+					"38.0789185"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mattia Farina",
+				"account": "mattifarina0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.8666830",
+					"44.5263023"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Rossano Bella",
+				"account": "rossanobella"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.1667356",
+					"37.6078033"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Renzo Bufalino",
+				"account": "RenzoBufalino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.8155031",
+					"37.4545212"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giulio Melloni",
+				"account": "GiulioMelloni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.1322718",
+					"45.0197716"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonino Lo Burgio",
+				"account": "NinoLoBurgio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.4481869",
+					"38.0299034"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo La Rosa",
+				"account": "Vincentius80"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3625708",
+					"37.9277992"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Corsaro",
+				"account": "i20corsaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0506430",
+					"37.5741463"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michele Mirenda",
+				"account": "michelemirenda1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0077400",
+					"37.5183105"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniel Raspanti La Scala",
+				"account": "D_R_LaScala"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.1183538",
+					"38.0466995"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Raffaele Fabbri",
+				"account": "raffaele_fabbri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0315409",
+					"44.3730049"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nuccio Di Paola",
+				"account": "NuccioDiPaola"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.2403536",
+					"37.0741539"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo Tiani",
+				"account": "VincenzoTiani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.4052019",
+					"44.2008476"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giulia Ruta",
+				"account": "giulia.ruta.9"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7690458",
+					"44.2218056"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Angelo Alù",
+				"account": "cyberlawdiritto"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9698067",
+					"37.5129433"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Elisa Ingrà",
+				"account": "elisaingra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0240927",
+					"37.6174965"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Tropiano",
+				"account": "domtropiano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4029551",
+					"44.4729195"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marcello Perone",
+				"account": "marcelloperone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8961735",
+					"38.1747818"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo Carola",
+				"account": "VincenzoCarola"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4449339",
+					"44.5529175"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valeria Battaglia",
+				"account": "v_valix"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.8871622",
+					"37.7248383"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Giarrizzo",
+				"account": "andreagiarrizz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3840361",
+					"37.4950066"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Cosetta",
+				"account": "GianlucaCosetta"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3793583",
+					"38.2227325"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Tombolini",
+				"account": "TomBolini"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.6065664",
+					"43.4396439"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Claudio Siepi",
+				"account": "ClaudioSiepi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.1385241",
+					"43.4815674"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Piero Aiello",
+				"account": "pieroaiello_"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.4082718",
+					"38.2333374"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Piccioni",
+				"account": "a_piccioni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.2746658",
+					"43.5991096"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Milia",
+				"account": "Trapani79"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.5873508",
+					"38.0380898"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Santini",
+				"account": "santwork"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.0194197",
+					"43.8398170"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vissia Lucarelli",
+				"account": "vissialucarelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.7200880",
+					"43.1588745"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Castiglione",
+				"account": "CastiglioneAnd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9017572",
+					"37.5671806"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Novelli",
+				"account": "CheccoNovelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.2482309",
+					"43.5626831"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Leonardo Serboni",
+				"account": "leonardoserboni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.1872463",
+					"43.1761436"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Pizzimenti",
+				"account": "gpizzimenti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.4328213",
+					"38.2354851"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pierangelo D’Annunzio",
+				"account": "Polisenno"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.4534769",
+					"43.2984276"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuliano Latini",
+				"account": "giulianolatini"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.3252115",
+					"43.5989380"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimiliano Fabrizi",
+				"account": "maxfabrizi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.2463799",
+					"43.5270844"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonella Fadda",
+				"account": "antonella_fadda"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.6935654",
+					"40.5766258"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Costa",
+				"account": "sarducd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8998947",
+					"39.5628700"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabrizio Filigheddu",
+				"account": "fabfili"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.3901539",
+					"41.0780106"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Omar Corda",
+				"account": "JchnoTech"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.3474703",
+					"39.6221848"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Solinas",
+				"account": "antoniosolinas"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.9977579",
+					"39.2915001"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonella Fancello",
+				"account": "antofancello"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.5913239",
+					"40.2891312"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Cadoni",
+				"account": "andrecadoni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6450853",
+					"39.8754959"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Piras",
+				"account": "mapiram"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7751007",
+					"39.6823006"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maria Pia Cossu",
+				"account": "Artemisia1975"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.5036659",
+					"40.2952309"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pier Luigi Lai",
+				"account": "PierLuigiLai"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0755281",
+					"39.3952370"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesca Garau",
+				"account": "francescaGarau3"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.9225473",
+					"39.6633148"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Multinu",
+				"account": "aleMultinu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1176805",
+					"40.5813217"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sante Gennaro Rotondi",
+				"account": "santerotondi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.6786261",
+					"40.6292801"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Agosti",
+				"account": "marcoagosti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.9709826",
+					"39.1788864"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sergio Masala",
+				"account": "Sergio_Masala"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0434713",
+					"39.3866005"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandra Patti",
+				"account": "alea70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0919428",
+					"39.3007889"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lucia Schirru",
+				"account": "luciaschirru"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2910843",
+					"39.5169373"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ettore Caboni",
+				"account": "ettorecaboni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0032959",
+					"39.0106468"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maurizio Scudu",
+				"account": "ZaffiroMan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.6397028",
+					"39.9532242"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mario Leopoldo Scrima",
+				"account": "polvio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3081141",
+					"41.3597794"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Quitadamo",
+				"account": "f_quitadamo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.2667360",
+					"41.2781906"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Aprile",
+				"account": "MimmoAprile"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.2449703",
+					"40.2617722"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giorgio Scolozzi",
+				"account": "GScolozzi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0460167",
+					"40.3502769"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vito Domenico Amodio",
+				"account": "VitoDomAmodio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.9926128",
+					"40.0558510"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salvatore Modeo",
+				"account": "smodeo86"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.7266712",
+					"40.3507233"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Di Candia",
+				"account": "fra83"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0660706",
+					"41.2224312"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Dello Iacovo",
+				"account": "giodeja"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3531513",
+					"41.8628006"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giampiero Romano",
+				"account": "soec_liquore"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3382273",
+					"41.5038338"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Canella",
+				"account": "a_canella"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.5795202",
+					"44.9209747"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valentina Novembre",
+				"account": "valenovembre"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.1204090",
+					"40.8544121"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Ciccarese",
+				"account": "lu_cicca19"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0331593",
+					"40.1798477"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Bruno Centrone",
+				"account": "brunocentrone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.2985554",
+					"40.9525185"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Leonetti",
+				"account": "fleonetti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.2966404",
+					"41.2272530"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nico Campese",
+				"account": "ni_camp"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8939161",
+					"41.2656593"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Annalisa Catapano",
+				"account": "catapanoannal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.7558079",
+					"40.5774040"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianni L’Abbate",
+				"account": "giannilabbate"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.2225380",
+					"40.9948997"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Girolamo Parisi",
+				"account": "ParisiSatellite"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1767483",
+					"41.8824768"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vito Macina",
+				"account": "vitomacina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.7802868",
+					"41.1492386"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maurizio Maraglino",
+				"account": "lospaziodimauri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.1184063",
+					"40.5910835"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valentino Moretto",
+				"account": "Vale_Moretto"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0709801",
+					"40.1506653"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Emmanuela Petrarolo",
+				"account": "emmanuelap"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.7064667",
+					"40.6583176"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nando Cannone",
+				"account": "nandocannone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.3262806",
+					"40.7559128"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paola Lisimberti",
+				"account": "PaolaLisimberti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.5779972",
+					"40.7295227"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Convertini",
+				"account": "ImmanuelKant"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.0214481",
+					"40.9175529"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valerio Stendardo",
+				"account": "ValerioStendard"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.2999954",
+					"39.9411659"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Crescente",
+				"account": "mimicrescente"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.2838211",
+					"41.3196640"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Viva",
+				"account": "VivaDaniele"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.1614571",
+					"39.9271126"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Sergio Antonacci",
+				"account": "Amaraterramia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8582392",
+					"41.8448944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vito Pennetta",
+				"account": "vitopennetta"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.2087917",
+					"40.5625229"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Diele",
+				"account": "giovdiele"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.5527878",
+					"40.8253937"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Schiavone",
+				"account": "AntonyEmpire"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.6910572",
+					"41.1078262"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Umberto Talamo",
+				"account": "utalamo59"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.3819256",
+					"40.4563942"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Fiore",
+				"account": "FioreNicola"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.1639690",
+					"40.3050957"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Blu Giandonato",
+				"account": "pietroblu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0538063",
+					"40.3730087"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Bove",
+				"account": "marcobove"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0851803",
+					"39.9790535"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Furone",
+				"account": "antoniofurone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.6615791",
+					"40.7022514"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo Notaristefano",
+				"account": "EnzoNotaristefa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.0329609",
+					"40.6349258"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Umberto Tarantino",
+				"account": "eff_energetica"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.2987404",
+					"40.1178856"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tiziano Fattizzo",
+				"account": "TizianoFattizzo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.7174969",
+					"40.5516129"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro D’Agnano",
+				"account": "freedance"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.8101768",
+					"40.5577240"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniel Vedovato",
+				"account": "Ved_Daniel"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0723257",
+					"45.5526009"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniel Vedovato",
+				"account": "Ved_Daniel"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0723257",
+					"45.5526009"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Jason Fontana",
+				"account": "jasonfweb"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4609356",
+					"45.7469330"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Da Rin Zanco",
+				"account": "marcodarin"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0955181",
+					"46.1093369"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Giusti",
+				"account": "francescogiusto"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.3005810",
+					"46.2723579"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Murari",
+				"account": "g_murari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.7350712",
+					"45.5060196"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Milani",
+				"account": "MilaniMarco82"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0399113",
+					"45.3335266"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mirco Aldrovandi",
+				"account": "advmirco"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.7343788",
+					"45.3546906"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Raffaello Setten",
+				"account": "raffaellosetten"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.5349913",
+					"45.8205070"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Pauletto",
+				"account": "mentelab"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.9282389",
+					"45.6716957"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefano Grigoletti",
+				"account": "s_grigoletti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4855604",
+					"45.5837402"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimiliano Scrigner",
+				"account": "mscrigner"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4773540",
+					"45.7070427"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianni Minazzo",
+				"account": "gianniminazzo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7364254",
+					"45.1783524"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Zitelli",
+				"account": "francescozit"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.8206682",
+					"45.2907944"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maria Cristina Pizzato",
+				"account": "CristinaPizzato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7007446",
+					"45.8279495"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniel Vedovato",
+				"account": "Ved_Daniel"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0723257",
+					"45.5526009"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniel Vedovato",
+				"account": "Ved_Daniel"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0723257",
+					"45.5526009"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Barile",
+				"account": "dbarile"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1766586",
+					"45.3093910"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Fracasso",
+				"account": "iostesso"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.3337049",
+					"45.5223541"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "William Mann",
+				"account": "wtmann"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.2167091",
+					"46.1424637"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Fascinato",
+				"account": "qoredistyle"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.1219444",
+					"45.5436096"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Laura Biancato",
+				"account": "LauraBiancato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7987766",
+					"45.7901993"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Cunico",
+				"account": "gcunico"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7272749",
+					"45.7657280"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alberto Borzì",
+				"account": "AlbertoBorz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.9639139",
+					"45.3456497"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Filippo Andolfatto",
+				"account": "pinkstratdesign"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7141514",
+					"45.8193359"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Sandonà",
+				"account": "marcosandona"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4553957",
+					"45.7707367"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Bisinella",
+				"account": "nicolabisio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7627983",
+					"45.7243538"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimo Zilio",
+				"account": "MassimoZilio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.3024797",
+					"45.6448326"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paolo Ragazzi",
+				"account": "paolodk"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.3840151",
+					"45.6861877"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimiliano Ponchio",
+				"account": "max_xe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0349789",
+					"45.2968559"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Franco Dal Col",
+				"account": "Franco_Dal_Col"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.2185659",
+					"45.7085419"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Fagotto",
+				"account": "KINGVIII"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.8373995",
+					"45.7805748"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Igor Marcolongo",
+				"account": "_frigor33"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7314348",
+					"45.3351746"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefano Dindo",
+				"account": "stefanodindo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7836428",
+					"45.6488266"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Carlo Mazzocco",
+				"account": "CarloMazzocco"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.9208202",
+					"45.9418068"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro De Faveri",
+				"account": "adefaveri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.0418739",
+					"46.0829163"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Turetta",
+				"account": "TeoTuretta"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.6724520",
+					"45.3489189"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Piva",
+				"account": "snutritionist"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.7432814",
+					"45.5858345"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Niccolò Gennaro",
+				"account": "NiccoloGennaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.7882996",
+					"45.3587189"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Federica Altoè",
+				"account": "federica.altoe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.3017969",
+					"45.9785995"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Victor Vassallo",
+				"account": "victorv_it"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.9843836",
+					"45.4438896"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Nardi",
+				"account": "pitnardi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3311338",
+					"41.0723495"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ernesto Donatiello",
+				"account": "EDonatiello"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.2217293",
+					"40.8170776"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Cesaro",
+				"account": "im_anynew"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.6815062",
+					"40.7504387"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Carmine Tolone",
+				"account": "CarmineTolone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7010689",
+					"40.7802315"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Patrick Arminio",
+				"account": "patrick91"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3758879",
+					"41.0153351"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lilia Compierchio",
+				"account": "Lilia_89"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8623667",
+					"40.8586922"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Capiraso",
+				"account": "capiraso"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7393522",
+					"40.9205742"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Volino",
+				"account": "lucavolino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7704468",
+					"40.7462425"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gabriele Granato",
+				"account": "GabrieleGranato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0326300",
+					"40.1762047"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Jepis Rivello",
+				"account": "JepisIT"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.5428476",
+					"40.1704292"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Angelo Di Sena",
+				"account": "angelodisena"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3829126",
+					"40.9101295"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Furno",
+				"account": "antolo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8482170",
+					"41.1975746"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Riccio",
+				"account": "futuroprossimo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.1452417",
+					"40.8784294"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Cozzolino",
+				"account": "lospettinato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.4828434",
+					"40.6957855"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Catapano",
+				"account": "dcatapano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.5048018",
+					"40.8345528"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Tesauro",
+				"account": "lucariello"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9413280",
+					"40.7160378"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Marinaccio",
+				"account": "Marinacio.Giovanni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0922766",
+					"41.1548920"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Jacopo Romani",
+				"account": "JacoRomani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.0401402",
+					"45.8909607"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Olimpio Pilosi",
+				"account": "olimpiopilosi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.3120174",
+					"40.0654755"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Angela Peduto",
+				"account": "angelapeduto1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7278748",
+					"40.6679459"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Meola",
+				"account": "marcorehub"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3093042",
+					"40.9230385"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Carratù",
+				"account": "pietrocarratu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7107420",
+					"40.6959991"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luigi Cutolo",
+				"account": "CutoloLuigi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.4772434",
+					"40.8520470"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pasquale Simonetti",
+				"account": "pasqualesim"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.5578403",
+					"40.8707199"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Dario Grande",
+				"account": "dariobig"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.0685263",
+					"40.7947998"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Minicozzi",
+				"account": "Fisicozzi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8782301",
+					"41.1634293"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lino Mari",
+				"account": "_linomari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9808359",
+					"40.6093750"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Emilio Frusciante",
+				"account": "fejit"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8511353",
+					"41.0612183"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alfonso Fabrizio",
+				"account": "AlfonsoFabrizio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8471060",
+					"41.0261765"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Marrazzo",
+				"account": "Groove984"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3891497",
+					"40.8592911"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Masucci",
+				"account": "masuccigiovanni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9180632",
+					"40.8802452"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Anna Bottone",
+				"account": "annabottone84"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.4989347",
+					"40.7461586"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Tafuri",
+				"account": "harkanik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.5908012",
+					"40.4019165"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Cosimato",
+				"account": "ennolo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.8456306",
+					"40.8325462"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesca Meloro",
+				"account": "francesca_me"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7570629",
+					"40.7253113"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fausto Napolitano",
+				"account": "fnapolitano_com"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3353062",
+					"41.0526009"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabrizio Ventriglia",
+				"account": "FaberVentriglia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.2076693",
+					"40.9731750"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Caliendo",
+				"account": "caliendoGio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3399944",
+					"40.9092216"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Carlo Mariella",
+				"account": "carlomariella"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.6290102",
+					"40.0732460"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michele Ioffredo",
+				"account": "micheleioffredo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.0932865",
+					"40.8459473"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marinella Arnone",
+				"account": "MarinellaAr"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7906122",
+					"40.9143867"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sonia China",
+				"account": "soniachina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.3447447",
+					"40.8344841"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluigi Bonanomi",
+				"account": "GBonanomi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.4397802",
+					"45.6685371"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Iannacone",
+				"account": "Tabletascuola"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2981310",
+					"45.4920006"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Oscar Bettinazzi",
+				"account": "oscarbettinazzi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.6294479",
+					"45.4036484"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Roberto Felter",
+				"account": "felter"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.3928709",
+					"45.4148407"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Crespi",
+				"account": "crespidaniele"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7772350",
+					"45.5545769"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Danesi",
+				"account": "davidedanesi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.3324900",
+					"45.5071602"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Patrizia Appari",
+				"account": "patrizia.appari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1092319",
+					"45.4323387"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefano Crespi",
+				"account": "stefanocrespi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7921267",
+					"45.6623650"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesca Parviero",
+				"account": "fparviero"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2143841",
+					"45.5583534"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabio Invernici",
+				"account": "fabioinvernici"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.5842314",
+					"45.6202583"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Belardi",
+				"account": "mbelardi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.5639524",
+					"43.5307808"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michael Bolognini",
+				"account": "michael_bologni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8915005",
+					"45.6053925"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valentino Magliaro",
+				"account": "valemagliaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7844477",
+					"45.5790138"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luciano Bettinelli",
+				"account": "lbettinelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.1837759",
+					"45.8655052"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Enrico Milani",
+				"account": "b4ssk3y"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.4860392",
+					"45.6161003"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Claudio Somazzi",
+				"account": "csomaz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.4054480",
+					"45.5307579"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gabriele Guida",
+				"account": "guidagabriele"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.4080935",
+					"45.4167900"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Micael Camozzi",
+				"account": "micaelcamozzi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.7589893",
+					"45.4767189"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Federica Scarrione",
+				"account": "fescarr"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0120440",
+					"44.9916611"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Riccardo Martinotti",
+				"account": "thadeus_it"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8531265",
+					"45.6118927"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Timothy Redaelli",
+				"account": "drizztbsd"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2425690",
+					"45.6130371"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimo Colombo",
+				"account": "colombo_massimo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.4220877",
+					"45.5031586"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Trapani",
+				"account": "matteotrapani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8101873",
+					"45.5777283"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Vanini",
+				"account": "apuntovanini"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.8408098",
+					"45.6966324"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonello Mango",
+				"account": "AntonelloMangoR"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0843945",
+					"39.9732056"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "David Mammano",
+				"account": "mammanodavid"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8356600",
+					"45.7798424"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Restelli",
+				"account": "danielerestelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8876104",
+					"45.6332664"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gaetano Danasi",
+				"account": "Gaetano_Danasi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.4767790",
+					"45.2989388"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tommaso Fioredda",
+				"account": "tom_vagamondo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0419703",
+					"45.4053078"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabio Ceriani",
+				"account": "FabioCeriani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0450401",
+					"45.5985069"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Silverio Carugo",
+				"account": "SilverioCarugo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.8787670",
+					"46.1698570"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Cirilli",
+				"account": "mcirilli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.5516253",
+					"45.4051590"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marieva Favoino",
+				"account": "marievafavoino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2076931",
+					"45.6186638"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Laura De Biaggi",
+				"account": "debilau"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6753216",
+					"45.8008270"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessio Valsecchi",
+				"account": "alevalsecchi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.2267284",
+					"45.8116188"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Inverardi",
+				"account": "luomocheride"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.1789007",
+					"45.4827423"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Raffaele Gareri",
+				"account": "RaffaeleGareri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.0523548",
+					"45.6570816"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Simone Sossi",
+				"account": "Sime52"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.1601753",
+					"45.5270157"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Aurelio Ravanini",
+				"account": "AurelioRavarini"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1427660",
+					"45.3760300"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maurizio Navoni",
+				"account": "MaurizioNavoni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.9814720",
+					"45.8313980"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Jacopo Vanetti",
+				"account": "vanettij"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6365976",
+					"45.7307014"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Simone Serughetti",
+				"account": "serughetti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.8748474",
+					"45.6362724"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Ragazzi",
+				"account": "RagazziDavide"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.9640560",
+					"45.6691628"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giorgio Ghisalberti",
+				"account": "giorgioghisa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.6227627",
+					"45.7817154"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Elga Melucci",
+				"account": "elgalanana"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.5377750",
+					"40.7589684"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ilaria Bozzo",
+				"account": "IlariaBozzo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1011524",
+					"44.3718719"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Monica Gobbato",
+				"account": "monicagobbato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1498175",
+					"44.3542786"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Umberto Port",
+				"account": "marino_leone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0647650",
+					"44.3792915"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Maggipinto",
+				"account": "amaggipinto"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1903925",
+					"45.5391045"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Riccardo Breda",
+				"account": "riccardo_breda"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1567612",
+					"45.3609314"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Biancalani",
+				"account": "marcobianca"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1240320",
+					"43.9672089"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Recalcati",
+				"account": "DavideRecalcati"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6981449",
+					"45.8348122"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lucia Marangon",
+				"account": "MarangonLucia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7989264",
+					"45.7775002"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabio Marini",
+				"account": "FabioMarini76"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.4130144",
+					"45.2201271"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vittorio Ravaioli",
+				"account": "VittorioRavaiol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.3265429",
+					"45.6269264"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lorenzo Guasti",
+				"account": "logu70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.2042694",
+					"43.8320961"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mario Romanelli",
+				"account": "/identitag"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.1382608",
+					"43.5726204"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Cipriani",
+				"account": "alessandrocipri"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.5393515",
+					"43.1023788"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Tempestini",
+				"account": "ziotempe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1022282",
+					"43.8777046"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Jacopo Cappelli",
+				"account": "jacopocappelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.9078588",
+					"43.9303474"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Romagnani",
+				"account": "NicolaRomagnani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.6891308",
+					"43.9073219"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tommaso Tarquini",
+				"account": "ttarquini"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.6319046",
+					"43.5927696"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefano Trumpy",
+				"account": "StefanoTrumpy"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.3105679",
+					"43.5484734"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Perencin",
+				"account": "No_CQRT"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7538023",
+					"45.5993118"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Aspesi",
+				"account": "marcoaspesi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.3015089",
+					"45.6061783"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tiziana Lombardo",
+				"account": "tizianalombardo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.5558968",
+					"43.6759148"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Jennifer Mallegni",
+				"account": "jemsun"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.2969084",
+					"43.9421387"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Chiara Ferretti",
+				"account": "nouv84"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.4903450",
+					"43.5213699"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuliano Preghenella",
+				"account": "pregiuliano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1733217",
+					"46.2494011"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paolo Bernardi",
+				"account": "bernarpa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.4823618",
+					"42.6460114"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Paoli",
+				"account": "GianlucaPaoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.7875614",
+					"43.1134949"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandro Penna",
+				"account": "Strenna"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.6711903",
+					"42.9876518"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Simone Bellucci",
+				"account": "SimoneKappa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.7014751",
+					"42.9508667"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Caterina Moscetti",
+				"account": "catemoscetti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.7411041",
+					"43.3312950"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Biolatti",
+				"account": "biolatti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.7952323",
+					"45.3357735"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Perona",
+				"account": "PeronaPietro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0028267",
+					"45.5818481"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paola Miglio",
+				"account": "paomig"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6350079",
+					"45.5951729"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Federico Morando",
+				"account": "federicomorando"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7858953",
+					"44.7620049"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Mancuso",
+				"account": "mancusoa74"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.6802878",
+					"44.9983521"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Emanuele Franzoso",
+				"account": "efranzoso"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.7653556",
+					"45.1020889"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paolo Colli Franzone",
+				"account": "picieffe"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.8800588",
+					"45.4672775"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Crevola",
+				"account": "acrevola"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.3715172",
+					"45.6139526"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Frediano Checchinato",
+				"account": "FredChecchinato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.4681401",
+					"45.0208015"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Cavicchioli",
+				"account": "cavicchioli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.6548471",
+					"45.1517715"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Franco Sacerdotti",
+				"account": "francocoen"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0583401",
+					"45.5628853"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefano Leucci",
+				"account": "stefanoleucci"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.2054138",
+					"44.9001465"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gian Domenico Gilardenghi",
+				"account": "jdbrady56"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6116800",
+					"44.9072723"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paolo Artusio",
+				"account": "arei1970"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0835571",
+					"44.7232628"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Renato Tamilio",
+				"account": "renatotamilio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.7419543",
+					"44.9838562"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Lerda",
+				"account": "davidelerda"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.3656693",
+					"44.4658432"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mattia Dell’Era",
+				"account": "mattiadellera"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.8633327",
+					"44.8952141"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Capriata",
+				"account": "pietrobravo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.4095974",
+					"45.8773460"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluca Ranno",
+				"account": "GianLucaRanno"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.0484571",
+					"45.1386147"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mauro Peteani",
+				"account": "MauroPeteani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.9981761",
+					"44.7601509"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Scrivano",
+				"account": "lscrivan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.5821490",
+					"45.0215759"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Oppedisano",
+				"account": "innovainnovatio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1657219",
+					"38.1930923"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lorenzo D’Amelio",
+				"account": "lorenzodamelio"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0104399",
+					"45.5274200"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Chiara Ferreri",
+				"account": "chiaracassandra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.2245655",
+					"38.3023415"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luigi Iervasi",
+				"account": "ierva85"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1156254",
+					"39.5273323"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Greto",
+				"account": "greto82"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.4150028",
+					"38.7190704"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Solari",
+				"account": "asolari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.5336523",
+					"44.3488655"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Prochilo",
+				"account": "yesnoj"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.2638016",
+					"38.2337189"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Rocco Sicoli",
+				"account": "roccosicoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0730190",
+					"39.1357956"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Pozzo",
+				"account": "danipozzo83"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1437445",
+					"44.3614235"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Massimiliano Aiello",
+				"account": "akamasensei"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1942463",
+					"39.3087883"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Rositano",
+				"account": "domenicoros"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8538370",
+					"38.2647057"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luigi Mazzei",
+				"account": "luimazzei"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.5316906",
+					"39.8669586"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pietro Biase",
+				"account": "PietroBiase"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6860170",
+					"44.4058609"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Ottonello",
+				"account": "LucaOttonello"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.5099096",
+					"44.3362427"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valentina De Grazia",
+				"account": "valuzz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.3092728",
+					"38.9629135"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo Bruno",
+				"account": "alivin70"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1524544",
+					"39.1678238"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vito Caruso",
+				"account": "vitocaruso"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.5876522",
+					"38.9097900"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Annamaria Catalano",
+				"account": "annamared"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.4209347",
+					"38.8240662"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gioele Traverso",
+				"account": "railnet"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.9445219",
+					"44.6160507"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Samuele Furfaro",
+				"account": "samfurfaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0602722",
+					"38.4329033"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Rende",
+				"account": "gioffo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1200848",
+					"39.5550117"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nunzia Fiacchino",
+				"account": "nueff_"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.2331610",
+					"41.5960426"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Cucari",
+				"account": "FrancescoCucari"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.5243587",
+					"40.1703300"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mariapina Fortuna",
+				"account": "mapina_f"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.4401608",
+					"40.3779984"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Paolo Fedele",
+				"account": "fedelepaolo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.1472740",
+					"40.6178284"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Rosa Pippa",
+				"account": "RosaPippa"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.7344389",
+					"40.3796616"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Paoletti",
+				"account": "and_paoletti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.3875580",
+					"40.5977135"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Anthony Rimoli",
+				"account": "AnthonyRimoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.6979885",
+					"40.2484360"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Claudio Miglionico",
+				"account": "ClaudioMig88"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.7145967",
+					"40.7299004"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vincenzo Pitrelli",
+				"account": "cenzo_pitrelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.6796551",
+					"40.2141037"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michela Calocero",
+				"account": "GreenMichela"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0630207",
+					"40.5161858"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Tartaglia",
+				"account": "antonio.tartaglia2"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.6697311",
+					"40.9263573"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianni Loris Rosa",
+				"account": "gionk27"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.7145967",
+					"40.7299004"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianni Lacorazza",
+				"account": "glacoraz"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.9916239",
+					"40.2971649"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Annalisa Romeo",
+				"account": "annaliromeo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.6438627",
+					"40.6413918"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nicola Bisceglia",
+				"account": "ilConteNik"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.7886486",
+					"41.0482292"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessia Setaro",
+				"account": "LaSetaro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8995552",
+					"40.3470383"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Vito Verrastro",
+				"account": "vitoverrastro"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.0989799",
+					"40.3609962"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alice Giorgio",
+				"account": "giorgio_alice"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8226824",
+					"40.3771286"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maria Pia Ebreo",
+				"account": "applepiea"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.5528984",
+					"40.3901176"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Roberta Giuliano",
+				"account": "rob_drusilla"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.4570522",
+					"40.4984550"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sergio Ragone",
+				"account": "sergioragone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.6895943",
+					"40.4109802"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mimino Ricciardi",
+				"account": "MiminoRICCIARDI"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8387146",
+					"40.0511932"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Caterina D’Ortona",
+				"account": "caterinadortona"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.5396700",
+					"42.1852570"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Eleonora Passaretti",
+				"account": "EPassaretti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.9929104",
+					"42.0514145"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Luca Propato",
+				"account": "LucaPropato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.1436996",
+					"42.5102081"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Lanfranco Finucci",
+				"account": "lan_fin"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.5429878",
+					"42.0822525"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sara Cicchelli",
+				"account": "cicchellisara"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.9875889",
+					"42.2349777"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Pina Manente",
+				"account": "manente_pina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.6986637",
+					"42.6611443"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ezio Bianchi",
+				"account": "EzioBianchi1"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.3995094",
+					"42.3498497"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Marco Ritrivi",
+				"account": "ritrivi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.5229645",
+					"41.9199181"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Domenico Di Francescantonio",
+				"account": "dodifra"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.4028111",
+					"42.3522453"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Trinchero",
+				"account": "DTrinchero"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0924158",
+					"45.1515961"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Laura Abba",
+				"account": "laura.abba"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.1393223",
+					"44.0354424"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Flora",
+				"account": "lastknight"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1769457",
+					"45.4722786"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Maurizio Napolitano",
+				"account": "napo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.1197624",
+					"46.0700912"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandra Giraldo",
+				"account": "giraldo_ale"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.2430439",
+					"45.6668892"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Sara Rocutto",
+				"account": "sararocutto"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.4185734",
+					"45.3202286"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Castello",
+				"account": "urukwavu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.0307655",
+					"44.7377434"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Fabio Malagnino",
+				"account": "invisigot"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.6868563",
+					"45.0703125"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Bombardi",
+				"account": "francescobomba"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.6296864",
+					"44.6989937"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giuseppe Naccarato",
+				"account": "PeppeNaccarato"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.2537365",
+					"39.2982635"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Caterina Policaro",
+				"account": "catepol"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8056040",
+					"40.6404076"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ida Leone",
+				"account": "Ida_Leone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.7816591",
+					"40.5754471"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michele Cignarale",
+				"account": "miccign"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.6531086",
+					"40.9933128"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tommaso Spagnoli",
+				"account": "TommaSpagnoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.2160902",
+					"42.4617920"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gabriella Morelli",
+				"account": "gabrimorelli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.1750164",
+					"40.3515167"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Perdichizzi",
+				"account": "aperdichizzi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0830307",
+					"37.5078773"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Davide Dattoli",
+				"account": "davidedattoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1859245",
+					"45.4654236"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Silvia Vianello",
+				"account": "ssilvia13"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1859245",
+					"45.4654236"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Chiara Russo",
+				"account": "chiararu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.4801798",
+					"41.8723907"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Seble Woldeghiorghis Asghedom",
+				"account": "seble_w"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1859245",
+					"45.4654236"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giampaolo Colletti",
+				"account": "gpcolletti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.3426161",
+					"44.4948883"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Ernesto Belisario",
+				"account": "diritto2punto0"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.8056040",
+					"40.6404076"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Guido Scorza",
+				"account": "guidoscorza"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.4801798",
+					"41.8723907"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alberto Cottica",
+				"account": "alberto_cottica"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.1859245",
+					"45.4654236"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Menduni",
+				"account": "giovannimenduni"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.2480001",
+					"43.7710342"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Salvatore Giuliano",
+				"account": "giulianosal"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"17.9417610",
+					"40.6327286"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Matteo Troìa",
+				"account": "matteojordan"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.8424063",
+					"45.9573402"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Francesco Contin",
+				"account": "FrenchContin"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.3217506",
+					"45.7788429"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Raffaele Gaito",
+				"account": "duplikey"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7680960",
+					"40.6824417"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianni Potti",
+				"account": "giannipotti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.8767614",
+					"45.4064331"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Mauro Magnani",
+				"account": "MauroMagnani"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.1158686",
+					"45.4950142"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Cesare Cacitti",
+				"account": "CesareCacitti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.5488443",
+					"45.6355057"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Gianluigi Cogo",
+				"account": "webeconoscenza"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.3155155",
+					"45.4408493"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Nino Galante",
+				"account": "picomiles"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.9666243",
+					"38.1386223"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Eugenio Agnello",
+				"account": "EugenioAgnello"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"13.5765476",
+					"37.3110886"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Peppe Sirchia",
+				"account": "peppesirchia"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"15.0830307",
+					"37.5078773"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Serena Orizi",
+				"account": "soloori"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.5556822",
+					"40.7259254"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Daniele Cassini",
+				"account": "danSiliconValle"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.0851803",
+					"39.9790535"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Antonio Scarnera",
+				"account": "antowkill"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"18.1750164",
+					"40.3515167"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Valeria Cagnina",
+				"account": "ValeriaCagnina"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.6116800",
+					"44.9072723"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Tin Hang Liu",
+				"account": "TinHangLiu"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"7.8275552",
+					"45.0088844"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Oscar Badoino",
+				"account": "oscarbadoino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.5554714",
+					"45.9281845"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alberto Trussardi",
+				"account": "a_trussardi"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.6772699",
+					"45.6982651"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Stefania Milo",
+				"account": "stefymilo"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.0226507",
+					"45.1332474"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Emanuela Donetti",
+				"account": "manudonetti"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.0851765",
+					"45.8080597"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Andrea Latino",
+				"account": "andrealatino"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"8.7400761",
+					"45.6741447"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Filippo Lubrano",
+				"account": "killphil"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"9.8240824",
+					"44.1024513"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Agnese Addone",
+				"account": "agaddone"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.4963655",
+					"41.9027824"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alessandra Farabegoli",
+				"account": "alebegoli"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"12.2035294",
+					"44.4183617"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giovanni Caturano",
+				"account": "GioCaturano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7826204",
+					"41.1297607"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Piersoft Paolicelli",
+				"account": "piersoft"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"16.6043205",
+					"40.6663780"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Giorgio Ventre",
+				"account": "giorgioventre"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.2681246",
+					"40.8517761"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Flavia Marzano",
+				"account": "flavia_marzano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"10.4016886",
+					"43.7228394"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Luca Corsolini",
+				"account": "youlympic"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.3426161",
+					"44.4948883"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Alex Giordano",
+				"account": "mantralex"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"14.7107420",
+					"40.6959991"
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"name": "Michele D’Alena",
+				"account": "MicheledAlena"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					"11.3426161",
+					"44.4948883"
+				]
+			}
+		}
+	]
+}
