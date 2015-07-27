@@ -32,6 +32,13 @@ header h1 {
 	height: 600px;
 }
 
+.past-campaigns {
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 50px;
+	border-top: 2px dotted #e54e40;
+}
+
 footer {
 	padding-top: 30px;
 	padding-bottom: 30px;

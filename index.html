@@ -33,8 +33,9 @@
 	<![endif]-->
 </head>
 <body>
-	<input type="hidden" name="campaign" id="campaign" value="dfd2015" />
-	<input type="hidden" name="message" id="message" value="sostieni%20anche%20tu%20i%20formati%20digitali%20liberi%20nella%20tua%20amministrazione!%20%23DFD2015" />
+	<input type="hidden" name="campaign" id="campaign" value="pdfreaders" />
+	<!-- per codificare il messaggio da includere nei tweet usare la funzione PHP rawurlencode() -->
+	<input type="hidden" name="message" id="message" value="per%20leggere%20i%20documenti%20PDF%20non%20esiste%20una%20sola%20applicazione%21%20%23pdfreaders" />
 
 	<div class="container">
 		<header>
@@ -43,20 +44,21 @@
 
 		<div class="row">
 			<div class="col-lg-12">
-				<img src="https://fsfe.org/contribute/promopics/dfd-2015-a7-front-mu.png" class="dfdflyer hidden-xs hidden-sm" />
+				<img src="http://pdfreaders.org/graphics/pdfreaders-logo.png" alt="pdfreaders.org" class="dfdflyer hidden-xs hidden-sm" />
 
 				<p>
-					In occasione del <strong><a href="http://documentfreedom.org/about.it.html">Document Freedom Day del 25 marzo</a></strong>,
-					giornata dedicata alla promozione ed al supporto dei formati digitali aperti, Italian Linux Society e LibreItalia
-					chiedono il sostegno dei Digital Champions italiani, "ambasciatori digitali" che supportano le pubbliche
-					amministrazioni e i cittadini nel processo di alfabetizzazione e digitalizzazione, per diffondere i concetti e
-					l'importanza degli standard liberi. Da questi infatti dipende l'interoperabilità tra diverse applicazioni e dunque
-					l'indipendenza (tecnica ed economica) da specifici vendor, la possibilità di integrare soluzioni tecnologiche
-					articolate ed innovative, e la tutela delle informazioni digitali nel tempo.
+					Ancora troppo spesso sui siti delle pubbliche amministrazioni i documenti PDF sono accompagnati da un esplicito invito
+					all'utilizzo di una ben precisa applicazione per la loro consultazione, proprietaria e non sempre così aderente allo
+					standard PDF, facendo implicita pubblicità ad una singola azienda ed ignorando il resto del mercato (e soprattutto le
+					alternative libere).
+					Chiediamo il sostegno dei Digital Champions italiani, "ambasciatori digitali" che supportano le amministrazioni e i
+					cittadini nel processo di alfabetizzazione e digitalizzazione, per monitorare le pagine web dei propri rispettivi comuni
+					ed agire per eliminare tali inopportuni inviti, magari sostituendoli con un link a
+					<a href="http://pdfreaders.org/pdfreaders.it.html">pdfreaders.org</a>.
 				</p>
 				<p>
 					Cerca sulla mappa i Digital Champions più vicini a te, clicca sulle icone, e manda loro un tweet di segnalazione con
-					un link <a class="trigger" href="dfd2015">a questo appello</a>.
+					un link <a class="trigger" href="pdfreaders">a questo appello</a>.
 				</p>
 			</div>
 		</div>
@@ -64,6 +66,16 @@
 		<div class="row">
 			<div class="col-lg-12">
 				<div id="map"></div>
+			</div>
+		</div>
+		
+		<div class="row past-campaigns">
+			<div class="col-lg-12">
+				<h3>Campagne Passate</h3>
+
+				<p>
+					<a class="trigger" href="dfd2015">Marzo 2015: Document Freedom Day</a>
+				</p>
 			</div>
 		</div>
 
@@ -77,12 +89,14 @@
 
 				<div class="col-lg-6">
 					<p class="text-right">
-						Powered by <a href="http://www.ils.org/">Italian Linux Society</a> &amp; <a href="http://www.libreitalia.it/">LibreItalia</a>
+						Powered by <a href="http://www.ils.org/">Italian Linux Society</a>
 					</p>
 				</div>
 			</div>
 		</footer>
 	</div>
+	
+	<!------------------------------------------------------------------------------------------------ DFD 2015 -->
 
 	<div class="modal fade bs-example-modal-lg" id="dfd2015" tabindex="-1" role="dialog" aria-labelledby="dfd2015" aria-hidden="true">
 		<div class="modal-dialog modal-lg">
@@ -106,6 +120,36 @@
 					</p>
 					<p>
 						<strong>Sostieni la loro adozione anche nella tua amministrazione</strong>. Per ulteriori informazioni consulta <a href="http://documentfreedom.org/about.it.html">il sito del Document Freedom Day</a> o <a href="mailto:webmaster@linux.it">mandaci una mail</a>!
+					</p>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Chiudi</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<!------------------------------------------------------------------------------------------------ PDF READERS -->
+	
+	<div class="modal fade bs-example-modal-lg" id="pdfreaders" tabindex="-1" role="dialog" aria-labelledby="pdfreaders" aria-hidden="true">
+		<div class="modal-dialog modal-lg">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Chiudi"><span aria-hidden="true">&times;</span></button>
+					<h4 class="modal-title" id="pdfreaderslabel">Sostieni la Libera Scelta!</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						Caro Champion,
+					</p>
+					<p>
+						cosa penseresti di un cartello stradale su cui è scritto <i>"Hai bisogno di una Volkswagen per percorrere questa strada. Contatta la tua concessionaria Volkswagen per un giro gratuito - Il tuo Governo"</i>? Quando si parla di software per aprire i file PDF, molte pubbliche amministrazioni fanno questo ogni giorno invitando all'utilizzo di una ben precisa applicazione.
+					</p>
+					<p>
+						Consigliando l'uso di un singolo programma non libero, le istituzioni pubbliche promuovono il modello del software proprietario. Ci sono moltissime alternative al software che promuovono, quindi non c'è alcun motivo per le istituzioni pubbliche di rafforzare ulteriormente la posizione dominante di una singola azienda. La pubblicità sui siti web degli enti pubblici può andare bene se viene contrassegnata e se si riceve un compenso per farla, e se questa non mette in pericolo la libera concorrenza e libera scelta nel mercato del software. Quando gli enti pubblici agiscono come canali di marketing per una singola azienda c'è qualcosa di sbagliato.
+					</p>
+					<p>
+						<strong>Sostieni la libera scelta ed i formati aperti nella tua amministrazione</strong>. Per ulteriori informazioni consulta <a href="https://fsfe.org/campaigns/pdfreaders/pdfreaders.it.html">il sito della campagna PDF Readers</a> o <a href="mailto:webmaster@linux.it">mandaci una mail</a>!
 					</p>
 				</div>
 				<div class="modal-footer">
