@@ -47,7 +47,7 @@ function initMap () {
 
 $(document).ready(function(){
 	$('.trigger').click(function () {
-		var name = $(this).attr('href');
+		var name = $(this).attr('href').replace('#', '');
 		$('#' + name).modal('show');
 		window.location.hash = name;
 		return false;
